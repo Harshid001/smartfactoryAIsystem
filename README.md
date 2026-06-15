@@ -1,4 +1,4 @@
-# 🏭 SmartFactory AI — Industrial Management System
+# SmartFactory AI — Industrial Management System
 
 > **Hackathon Project** — AI-Powered Smart Manufacturing Management System with Machine & Workforce Optimization
 
@@ -6,28 +6,28 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 SmartFactory AI is a full-stack industrial management platform that provides real-time monitoring, predictive analytics, and AI-driven optimization for manufacturing facilities.
 
-## ✨ Key Features
+## Key Features
 
 | Module | Description |
 |--------|-------------|
-| 🖥️ Machine Health Monitoring | Real-time temperature, vibration, runtime tracking |
-| 🔮 Predictive Maintenance | AI-powered failure prediction scoring |
-| 📊 Production Tracking | Daily targets vs actual with efficiency analytics |
-| 📦 Inventory Automation | Automated low-stock alerts and stock management |
-| 🔔 Smart Alert System | Multi-category alert system with severity levels |
-| 📈 Analytics Dashboard | Factory-wide KPIs and performance charts |
-| 👥 Worker Management | Profiles, performance, skill-based assignment |
-| 🛡️ Safety Monitoring | Incident tracking and compliance dashboard |
-| 📄 Report Generation | CSV/PDF export for all modules |
-| 🔐 Role-Based Auth | Admin / Manager / Worker access control |
+|  Machine Health Monitoring | Real-time temperature, vibration, runtime tracking |
+|  Predictive Maintenance | AI-powered failure prediction scoring |
+|  Production Tracking | Daily targets vs actual with efficiency analytics |
+|  Inventory Automation | Automated low-stock alerts and stock management |
+|  Smart Alert System | Multi-category alert system with severity levels |
+|  Analytics Dashboard | Factory-wide KPIs and performance charts |
+|  Worker Management | Profiles, performance, skill-based assignment |
+|  Safety Monitoring | Incident tracking and compliance dashboard |
+|  Report Generation | CSV/PDF export for all modules |
+|  Role-Based Auth | Admin / Manager / Worker access control |
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 smartfactory/
@@ -94,7 +94,7 @@ smartfactory/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -137,7 +137,7 @@ npm run seed
 
 ---
 
-## 🔐 Demo Login Credentials
+## Demo Login Credentials
 
 | Role | Email | Password |
 |------|-------|----------|
@@ -194,7 +194,7 @@ GET    /api/maintenance/predict  AI failure risk predictions
 
 ---
 
-## 🤖 AI Predictive Maintenance Algorithm
+## AI Predictive Maintenance Algorithm
 
 The failure risk score is calculated using weighted factors:
 
@@ -211,7 +211,7 @@ Risk Score = Temperature Weight (40 pts max)
 
 ---
 
-## 🎨 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -226,7 +226,7 @@ Risk Score = Temperature Weight (40 pts max)
 
 ---
 
-## 📊 Database Schema
+## Database Schema
 
 ### Machine
 ```json
@@ -262,7 +262,7 @@ Risk Score = Temperature Weight (40 pts max)
 
 ---
 
-## 🏆 Hackathon Highlights
+## Hackathon Highlights
 
 - ✅ **10 complete modules** covering all requirements
 - ✅ **Full-stack MERN** with proper MVC architecture  
@@ -277,7 +277,7 @@ Risk Score = Temperature Weight (40 pts max)
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **SmartFactory AI** — Built for hackathon showcase
 Technology: MERN Stack + AI Analytics
