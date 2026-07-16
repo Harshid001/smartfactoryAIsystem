@@ -2,7 +2,7 @@
 const User = require('../models/User');
 const jwt = require('jsonwebtoken');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'REMOVED_SECRET';
+const JWT_SECRET = process.env.JWT_SECRET;
 const JWT_EXPIRE = '7d';
 
 const generateToken = (id) => jwt.sign({ id }, JWT_SECRET, { expiresIn: JWT_EXPIRE });
